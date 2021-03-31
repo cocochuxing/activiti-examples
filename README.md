@@ -27,3 +27,5 @@ Which uses the Maven Artifacts published in Maven Central.
 
 For cloud-based examples see https://github.com/Activiti/activiti-cloud-examples
 
+mvn package -Dmaven.test.skip=true 
+
